@@ -1,0 +1,37 @@
+.form{
+    display: flex;
+    align-items: center;
+    width: 550px;
+    margin: 0 auto;
+}
+
+.submit{
+    margin-inline-start: 10px
+}
+
+.clear{
+    margin-left: 63%;
+    margin-top: 30px;
+}
+
+.list{
+    list-style-type: none;
+    width: 550px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.list li{
+    margin-top: 20px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.wrapper li{
+    font-size: 20px;
+}
